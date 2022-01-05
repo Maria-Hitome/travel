@@ -1,0 +1,31 @@
+h1{
+    color: rgba(31, 31, 209, 0.336);
+    background-color: rgb(233, 243, 241);
+    font-style: italic;
+    font-size: 75px;
+}
+h3{
+    font-size: 50px;
+    color: rgb(17, 16, 16);
+    background-color: rgb(244, 245, 170);
+    font-family: fantasy;
+}
+.blog{
+    background-color: rgb(8, 64, 102);
+    font-size: 20px;
+    padding: 40px 50px;
+    width: 50%;
+    margin: 50px auto;
+    
+}
+.blog-title{
+    text-align: center;
+    font-style: oblique;
+}
+.author-name{
+    color: rgb(228, 24, 51);
+}
+.blog p{
+    color: rgb(196, 236, 143);
+    text-align: justify;
+}
